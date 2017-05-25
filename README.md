@@ -59,7 +59,7 @@ R Markdown, R Notebooks, GitHub.
  
 * [R Markdown](http://rmarkdown.rstudio.com)
 * [R Notebooks](http://rmarkdown.rstudio.com/r_notebooks.html)
-* [GitHub and RStudio](Hadley Wickham book “R packages”, chapter “Git and GitHub”: http://r-pkgs.had.co.nz/git.html)
+* [GitHub and RStudio: Hadley Wickham book "R packages"", chapter "Git and GitHub""](http://r-pkgs.had.co.nz/git.html)
 
 
 ***
