@@ -50,9 +50,6 @@ You can also subscribe to the repository if you have [a GitHub account](https://
 
 * [Notes](day1/ME414_day1.pdf)
 
-#### Background
-* Grimmer, J, and B M Stewart (2013), "Text as Data: the Promise and Pitfalls of Automatic Content Analysis Methods for Political Texts." _Political Analysis_.
-
 
 
 ***
@@ -103,6 +100,8 @@ Models." _Annual Review of Statistics and Its Application_, 1: 203-232.
 
 #### __*5: Word embeddings*__
 word2vec, text2vec.
+
+* [Notes](module5/word_embedding.pdf)
 
 #### Background
 * Mikolov, Tomas et al. "Efficient Estimation of Word Representations in Vector Space."
