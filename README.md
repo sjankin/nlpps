@@ -48,7 +48,7 @@ You can also subscribe to the repository if you have [a GitHub account](https://
 
 #### __*1: Overview and introduction to data science*__
 
-* [Notes](day1/ME414_day1.pdf)
+* [Notes](module1/overview.pdf)
 
 
 
