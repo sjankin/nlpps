@@ -118,6 +118,7 @@ Sampling Word-Embedding Method."
 keyness, similarity, distance, readability
 
 * [Analysing textual patterns](module6/Lancet.nb.html)
+* [Text similarity](module6/EUnotebook.nb.html)
 
 ***
 
