@@ -56,11 +56,16 @@ You can also subscribe to the repository if you have [a GitHub account](https://
 
 #### __*2: Replicability in social science*__  
 R Markdown, R Notebooks, GitHub.
- 
+
+
+
 * [R Markdown](http://rmarkdown.rstudio.com)
 * [R Notebooks](http://rmarkdown.rstudio.com/r_notebooks.html)
-* [GitHub and RStudio: Hadley Wickham book "R packages", chapter "Git and GitHub"](http://r-pkgs.had.co.nz/git.html)
+* [GitHub and RStudio: Hadley Wickham book _R packages_, chapter "Git and GitHub"](http://r-pkgs.had.co.nz/git.html)
 
+Examples:
+- [UK Government Digital Service](https://github.com/ukgovdatascience)
+- [RMarkdown reporting](https://rstudio-pubs-static.s3.amazonaws.com/266658_321dcb37d49347e08684eb4c1311a15e.html)
 
 ***
 
